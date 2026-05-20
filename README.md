@@ -6,7 +6,7 @@
 > Contributed as **Data Analyst** (SQL, BigQuery, Python, Tableau Public).
 
 [![SQL](https://img.shields.io/badge/SQL-BigQuery-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://github.com/iro44ka8888-droid/Sales-analytics/blob/main/Sales_analytics_ipynb.ipynb)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://colab.research.google.com/drive/1_lc0Ek61KeX21Ioy6vO9Y2Ar8PnmvEpK#scrollTo=7mV0GoLSjNrb)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/iryna.savelieva/viz/Sales_17606218562930/Salesanalysis?publish=yes)
 
 ---
@@ -86,4 +86,4 @@ The full analysis is available in Google Colab:
 ## Links
 
 - [Tableau Dashboard](https://public.tableau.com/app/profile/iryna.savelieva/viz/Sales_17606218562930/Salesanalysis?publish=yes) — interactive visualization
-- [Analysis Notebook](YOUR_NOTEBOOK_LINK) — Google Colab
+- [Analysis Notebook](https://colab.research.google.com/drive/1_lc0Ek61KeX21Ioy6vO9Y2Ar8PnmvEpK#scrollTo=7mV0GoLSjNrb) — Google Colab
