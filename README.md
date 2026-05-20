@@ -42,16 +42,16 @@ The full analysis is available in Google Colab:
 1. Database Connection — connecting to Google BigQuery (data-analytics-mate)
 2. Data Inspection — data types, shape, missing values
 3. Overall Sales & User Behavior Analysis
-   - 3.1 Sales by product category and country (global and USA)
-   - 3.2 Top 10 most profitable products
-   - 3.3 Sales by device type and browser
-   - 3.4 Sales by traffic source
-   - 3.5 Registered vs unregistered users behavior
+   - 3.1 Sales by continent and country (top 5)
+   - 3.2 Ranking of product categories by total sales
+   - 3.3 Average order value and number of units sold per category
+   - 3.4 Top Profitable Products Analysis
+   - 3.5 Sales by device type, browser and traffic source
+   - 3.6 User Behavior Analysis
 4. Sales Dynamics Analysis
-   - 4.1 Overall sales dynamics and seasonality
+   - 4.1 Overall sales dynamics
    - 4.2 Sales by continent (Americas, Asia, Europe)
-   - 4.3 Sales by traffic channel
-   - 4.4 Sales by device type
+   - 4.3 Sales dynamics by traffic channel and device type
 5. Pivot Tables
    - 5.1 Sessions by traffic channel and device type
    - 5.2 Sales by top-10 categories in top-5 countries
