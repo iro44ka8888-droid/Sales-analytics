@@ -53,20 +53,21 @@ The full analysis is available in Google Colab:
    - 4.2 Sales by continent (Americas, Asia, Europe)
    - 4.3 Sales dynamics by traffic channel and device type
 5. Pivot Tables
-   - 5.1 Sessions by traffic channel and device type
-   - 5.2 Sales by top-10 categories in top-5 countries
-   - 5.3 Monthly revenue from top-4 products
+   - 5.1 Number of sessions by traffic channel and device type
+   - 5.2 Total sales by product category (top 10 categories) across different countries (top 5 countries)
+   - 5.3 Monthly revenue from top 4 products
 6. Statistical Relationship Analysis
-   - 6.1 Sessions vs registered users (Pearson correlation)
-   - 6.2 Sessions vs total sales (Pearson correlation)
-   - 6.3 Sales correlation across top-3 continents
-   - 6.4 Sales correlation across traffic channels
-   - 6.5 Sales correlation across top-5 product categories
+   - 6.1 Relationship between the number of sessions and the number of registered users
+   - 6.2 Relationship between the number of sessions and total sales for each date
+   - 6.3 Relationship between average order value and number of units sold
+   - 6.4 Relationship between sales across top 3 continents
+   - 6.5 Relationship between sales across different traffic channels
+   - 6.6 Relationship between sales across top 5 product categories
 7. Statistical Analysis of Differences Between Groups
-   - 7.1 Registered vs unregistered users (Mann-Whitney U test)
-   - 7.2 Sessions by traffic channel (Kruskal-Wallis test)
-   - 7.3 Organic search share: Europe vs Americas (z-test)
-   - 7.4 Revenue from top product by continent (ANOVA)
+   - 7.1 Sales analysis for registered and unregistered users (the Mann-Whitney U test)
+   - 7.2 Analysis of the number of sessions by traffic channel (Kruskal-Wallis test)
+   - 7.3 Comparison of the share of organic search sessions in Europe and Americas (z-test)
+   - 7.4 Analysis of average revenue from the most profitable product by continent (ANOVA)
 8. Conclusions and Recommendations
 
 ---
@@ -84,5 +85,5 @@ The full analysis is available in Google Colab:
 
 ## Links
 
-- [Tableau Dashboard](YOUR_TABLEAU_LINK) — interactive visualization
+- [Tableau Dashboard](https://public.tableau.com/app/profile/iryna.savelieva/viz/Sales_17606218562930/Salesanalysis?publish=yes) — interactive visualization
 - [Analysis Notebook](YOUR_NOTEBOOK_LINK) — Google Colab
