@@ -1,4 +1,3 @@
-# Sales-analytics
 # E-commerce Sales & User Behavior Analysis
 
 > Exploratory and statistical analysis of an online store — sales performance,
